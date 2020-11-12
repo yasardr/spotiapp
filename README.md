@@ -1,4 +1,4 @@
-# Notas
+# Notes
 Add "access token" and "code font awesome"
 
 # Spotiapp
